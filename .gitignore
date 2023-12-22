@@ -1,2 +1,6 @@
 *.terraform/
 *.terraform
+
+*.env
+*.yaml
+*dont_show.py
